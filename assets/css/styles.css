@@ -260,7 +260,7 @@ img{
     object-fit: cover;
 }
 .about__img img{
-    width: 100px;
+    width: 500px;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
